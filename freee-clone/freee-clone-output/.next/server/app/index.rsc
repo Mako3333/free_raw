@@ -1,0 +1,19 @@
+1:"$Sreact.fragment"
+2:I[889,["177","static/chunks/app/layout-80bb306138f7ea29.js"],"ClientBody"]
+3:I[5244,[],""]
+4:I[3866,[],""]
+5:I[5752,["108","static/chunks/108-335c7383ba48fe6c.js","973","static/chunks/973-4ad5d9bee89d257a.js","974","static/chunks/app/page-357ebbe656550d9a.js"],"Header"]
+6:I[4409,["108","static/chunks/108-335c7383ba48fe6c.js","973","static/chunks/973-4ad5d9bee89d257a.js","974","static/chunks/app/page-357ebbe656550d9a.js"],"HeroSection"]
+7:I[8171,["108","static/chunks/108-335c7383ba48fe6c.js","973","static/chunks/973-4ad5d9bee89d257a.js","974","static/chunks/app/page-357ebbe656550d9a.js"],"DualPath"]
+8:I[7628,["108","static/chunks/108-335c7383ba48fe6c.js","973","static/chunks/973-4ad5d9bee89d257a.js","974","static/chunks/app/page-357ebbe656550d9a.js"],"FeaturesSection"]
+9:I[5330,["108","static/chunks/108-335c7383ba48fe6c.js","973","static/chunks/973-4ad5d9bee89d257a.js","974","static/chunks/app/page-357ebbe656550d9a.js"],"Footer"]
+a:I[6213,[],"OutletBoundary"]
+d:I[6213,[],"ViewportBoundary"]
+f:I[6213,[],"MetadataBoundary"]
+11:I[4835,[],""]
+:HL["/_next/static/css/0458a54a4deb513d.css","style"]
+0:{"P":null,"b":"BS6Rt1RkLfaOOTfPYO9Xh","p":"","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0458a54a4deb513d.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"ja","suppressHydrationWarning":true,"children":["$","body",null,{"children":["$","$L2",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"$undefined",[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","main",null,{"className":"min-h-screen flex flex-col","children":[["$","$L5",null,{}],["$","div",null,{"className":"flex-grow","children":[["$","$L6",null,{}],["$","$L7",null,{}],["$","$L8",null,{}]]}],["$","$L9",null,{}]]}],"$undefined",null,["$","$La",null,{"children":["$Lb","$Lc",null]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","dUgFWr2uYLMW1BerAYFnv",{"children":[["$","$Ld",null,{"children":"$Le"}],null]}],["$","$Lf",null,{"children":"$L10"}]]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+c:null
+10:[["$","title","0",{"children":"クラウド会計ソフト | freee"}],["$","meta","1",{"name":"description","content":"freeeはすべてのスモールビジネスを支える統合型経営プラットフォームです。従来バラバラに存在していた業務やデータをフロントオフィスからバックオフィスまで一気通貫させ、誰もが自由に経営を行えること目指します。"}]]
